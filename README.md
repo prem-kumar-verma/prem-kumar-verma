@@ -1,7 +1,12 @@
 ### Hello, this is Prem 👋
 
 
-![Logo](https://drive.google.com/file/d/1_dlIOoFqyW4JPB3ct0FZN6DfG7M4jI1K/view?usp=sharing)
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
 
 
