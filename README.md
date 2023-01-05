@@ -1,7 +1,6 @@
 
-![background template](https://user-images.githubusercontent.com/84134833/210735333-fa947045-c215-4e8e-b5cc-247c81130c39.jpg)
 
-
+![background template (1)](https://user-images.githubusercontent.com/84134833/210736760-441aa410-8a55-4ccc-adf5-5d02d356a91a.jpg)
 
 
 profile under construction!!!
