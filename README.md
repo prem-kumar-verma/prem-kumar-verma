@@ -3,7 +3,7 @@
 ![background template (1)](https://user-images.githubusercontent.com/84134833/210736760-441aa410-8a55-4ccc-adf5-5d02d356a91a.jpg)
 
 
-profile under construction!!!
+profile under development!
 
 <!--
 **prem-kumar-verma/prem-kumar-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
